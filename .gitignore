@@ -22,3 +22,5 @@ yarn-error.log*
 
 /lib
 /docs
+generateComponentData.js
+componentData.js
